@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mashrafi Mahin  
+# Hi, I'm Mashrafi Mahin  
 
-## 🚀 Skills  
+## Skills  
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -9,22 +9,23 @@
 </p>  
 
 
-## 📝 About Me  
-Passionate developer crafting modern web experiences with JavaScript, React, and design. Focused on growth, problem-solving, and building impactful digital solutions.  
+## About Me  
+
+I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to building modern, user-friendly web experiences. With strong skills in JavaScript, React, CSS, and HTML, I focus on creating clean, efficient, and responsive interfaces that bring ideas to life. Beyond coding, I enjoy exploring design principles, solving problems through creative solutions, and continuously expanding my knowledge in front-end technologies. Currently, I’m honing my skills through real-world projects and a structured roadmap to become a professional developer capable of contributing to innovative, large-scale platforms. I believe in consistency, growth, and sharing knowledge to inspire others while shaping a meaningful career in tech.
 
 
-## 🌐 Connect with Me  
+## Connect with Me  
 <p align="left">
-  <a href="[https://facebook.com/yourprofile](https://www.facebook.com/mrdodo0/)" target="_blank">
+  <a href="https://www.facebook.com/mrdodo0" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="[https://instagram.com/yourprofile](https://www.instagram.com/mashrafi.devs/)" target="_blank">
+  <a href="https://www.instagram.com/mashrafi.devs" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mashrafidevs/)" target="_blank">
+  <a href="https://www.linkedin.com/in/mashrafidevs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://youtube.com/@yourchannel](https://www.youtube.com/@mahin2ix)" target="_blank">
+  <a href="https://www.youtube.com/@mahin2ix" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
