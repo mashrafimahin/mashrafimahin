@@ -1,4 +1,4 @@
-<p style="font-size:32px; font-weight:bold;">Hi, I'm Mashrafi Mahin</p>
+## Hi, I'm Mashrafi Mahin
 
 ## Skills  
 <p align="left">
