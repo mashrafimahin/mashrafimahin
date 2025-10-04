@@ -1,4 +1,4 @@
-** Hi, I'm Mashrafi Mahin **
+<p style="font-size:32px; font-weight:bold;">Hi, I'm Mashrafi Mahin</p>
 
 ## Skills  
 <p align="left">
