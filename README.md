@@ -1,5 +1,3 @@
-## Hi, I'm Mashrafi Mahin
-
  ## Top Skills
  
 <p align="left">
