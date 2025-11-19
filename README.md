@@ -1,39 +1,50 @@
 ## Top Skills
 
-  <img src="https://cdn.simpleicons.org/react/white?size=48"  
-       width="48" height="48"  
-       style="border-radius:50%; background:#61DAFB; padding:8px; margin-right:12px;"  
-       alt="React" />
+## Top Skills
 
-  <img src="https://cdn.simpleicons.org/javascript/white?size=48"  
-       width="48" height="48"  
-       style="border-radius:50%; background:#F7DF1E; padding:8px; margin-right:12px;"  
-       alt="JavaScript" />
+<p align="left">
+  <span style="display:inline-block; margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/react/white"
+         width="48" height="48"
+         style="border-radius:50%; background:#61DAFB; padding:8px;" />
+  </span>
 
-  <img src="https://cdn.simpleicons.org/firebase/white?size=48"  
-       width="48" height="48"  
-       style="border-radius:50%; background:#FFCA28; padding:8px; margin-right:12px;"  
-       alt="Firebase" />
+  <span style="display:inline-block; margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/javascript/white"
+         width="48" height="48"
+         style="border-radius:50%; background:#F7DF1E; padding:8px;" />
+  </span>
 
-  <img src="https://cdn.simpleicons.org/css/white?size=48"  
-       width="48" height="48"  
-       style="border-radius:50%; background:#1572B6; padding:8px; margin-right:12px;"  
-       alt="CSS3" />
+  <span style="display:inline-block; margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/firebase/white"
+         width="48" height="48"
+         style="border-radius:50%; background:#FFCA28; padding:8px;" />
+  </span>
 
-  <img src="https://cdn.simpleicons.org/html5/white?size=48"  
-       width="48" height="48"  
-       style="border-radius:50%; background:#E34F26; padding:8px; margin-right:12px;"  
-       alt="HTML5" />
+  <span style="display:inline-block; margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/css3/white"
+         width="48" height="48"
+         style="border-radius:50%; background:#1572B6; padding:8px;" />
+  </span>
 
-  <img src="https://cdn.simpleicons.org/git/white?size=48"  
-       width="48" height="48"  
-       style="border-radius:50%; background:#F05032; padding:8px; margin-right:12px;"  
-       alt="Git" />
+  <span style="display:inline-block; margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/html5/white"
+         width="48" height="48"
+         style="border-radius:50%; background:#E34F26; padding:8px;" />
+  </span>
 
-  <img src="https://cdn.simpleicons.org/github/white?size=48"  
-       width="48" height="48"  
-       style="border-radius:50%; background:#181717; padding:8px;"  
-       alt="GitHub" />
+  <span style="display:inline-block; margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/git/white"
+         width="48" height="48"
+         style="border-radius:50%; background:#F05032; padding:8px;" />
+  </span>
+
+  <span style="display:inline-block;">
+    <img src="https://cdn.simpleicons.org/github/white"
+         width="48" height="48"
+         style="border-radius:50%; background:#181717; padding:8px;" />
+  </span>
+</p>
 
 
 ## About Me  
