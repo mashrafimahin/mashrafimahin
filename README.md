@@ -17,11 +17,11 @@ I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to b
 
 ## Top Projects
 <ul>
-<li>QuizApp - [Live Preview](https://quizappzone.netlify.app),  [Repository](https://github.com/mashrafimahin/QuizApp)</li>
-<li>FoodApp - [Live Preview](https://foodappp7.netlify.app),  [Repository](https://github.com/mashrafimahin/FoodDeliveryApp)</li>
-<li>RecipeApp - [Live Preview](https://recipeappmahin.netlify.app),  [Repository](https://github.com/mashrafimahin/ReactRecipeApp)</li>
-<li>FitnessClubGYM - [Live Preview](https://fitnessclubmahin.netlify.app),  [Repository](https://github.com/mashrafimahin/FitnessClubGym)</li>
-<li>MusicApp - [Live Link](https://glittering-bublanina-00a978.netlify.app/),  [Repository](https://github.com/mashrafimahin/ReactMusicApp)</li>
+<li>QuizApp - [Live](https://quizappzone.netlify.app),  [Repository](https://github.com/mashrafimahin/QuizApp)</li>
+<li>FoodApp - [Live](https://foodappp7.netlify.app),  [Repository](https://github.com/mashrafimahin/FoodDeliveryApp)</li>
+<li>RecipeApp - [Live](https://recipeappmahin.netlify.app),  [Repository](https://github.com/mashrafimahin/ReactRecipeApp)</li>
+<li>FitnessClubGYM - [Live](https://fitnessclubmahin.netlify.app),  [Repository](https://github.com/mashrafimahin/FitnessClubGym)</li>
+<li>MusicApp - [Live](https://glittering-bublanina-00a978.netlify.app/),  [Repository](https://github.com/mashrafimahin/ReactMusicApp)</li>
 </ul>
 
 ## Connect with Me  
