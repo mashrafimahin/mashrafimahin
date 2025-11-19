@@ -77,10 +77,10 @@ I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to b
   </a>
 
   <a href="https://www.linkedin.com/in/mashrafidevs" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff"
-       width="40" height="40"
-       style="border-radius:50%; background:#0A66C2; padding:8px;"
-       alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg"  
+     width="40" height="40"  
+     style="border-radius:50%; background:#0A66C2; padding:8px;"  
+     alt="LinkedIn" />
   </a>
 
 
