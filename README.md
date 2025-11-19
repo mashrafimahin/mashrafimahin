@@ -27,22 +27,22 @@ I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to b
 
 ## Connect with Me  
 <p align="left">
-  <a href="https://www.facebook.com/mrdodo0" target="_blank">
+  <a href="https://www.facebook.com/mrdodo0" target="_blank" style="margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" 
-         style="width:40px; height:40px; border-radius:50%; background:#1877F2; padding:8px; color: #fff" />
+         style="width:40px; height:40px; border-radius:50%; background:#1877F2; padding:8px;" />
   </a>
 
-  <a href="https://www.instagram.com/mashrafi.devs" target="_blank">
+  <a href="https://www.instagram.com/mashrafi.devs" target="_blank" style="margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" 
          style="width:40px; height:40px; border-radius:50%; background:#E4405F; padding:8px;" />
   </a>
 
-  <a href="https://www.linkedin.com/in/mashrafidevs" target="_blank">
+  <a href="https://www.linkedin.com/in/mashrafidevs" target="_blank" style="margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
          style="width:40px; height:40px; border-radius:50%; background:#0A66C2; padding:8px;" />
   </a>
 
-  <a href="https://wa.me/8801822565654" target="_blank">
+  <a href="https://wa.me/8801822565654" target="_blank" style="margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" 
          style="width:40px; height:40px; border-radius:50%; background:#25D366; padding:8px;" />
   </a>
@@ -52,5 +52,3 @@ I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to b
          style="width:40px; height:40px; border-radius:50%; background:#FF0000; padding:8px;" />
   </a>
 </p>
-
-
