@@ -29,7 +29,7 @@ I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to b
 <p align="left">
   <a href="https://www.facebook.com/mrdodo0" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" 
-         style="width:40px; height:40px; border-radius:50%; background:#1877F2; padding:8px;" />
+         style="width:40px; height:40px; border-radius:50%; background:#1877F2; padding:8px; color: #fff" />
   </a>
 
   <a href="https://www.instagram.com/mashrafi.devs" target="_blank">
