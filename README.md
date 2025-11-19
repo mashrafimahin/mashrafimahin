@@ -16,7 +16,7 @@
        style="border-radius:50%; background:#FFCA28; padding:8px; margin-right:12px;"  
        alt="Firebase" />
 
-  <img src="https://cdn.simpleicons.org/css3/white?size=48"  
+  <img src="https://cdn.simpleicons.org/css/white?size=48"  
        width="48" height="48"  
        style="border-radius:50%; background:#1572B6; padding:8px; margin-right:12px;"  
        alt="CSS3" />
