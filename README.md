@@ -1,6 +1,5 @@
 ## Top Skills
 
-<p align="left">
   <img src="https://cdn.simpleicons.org/react/white?size=48"  
        width="48" height="48"  
        style="border-radius:50%; background:#61DAFB; padding:8px; margin-right:12px;"  
@@ -35,7 +34,6 @@
        width="48" height="48"  
        style="border-radius:50%; background:#181717; padding:8px;"  
        alt="GitHub" />
-</p>
 
 
 ## About Me  
