@@ -60,42 +60,10 @@ I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to b
 </ul>
 
 
-## Connect with Me  
-<p align="left">
-  <a href="https://www.facebook.com/mrdodo0" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/facebook/white?size=40"  
-         width="40" height="40"  
-         style="border-radius:50%; background:#1877F2; padding:8px;"  
-         alt="Facebook" />
-  </a>
+## Connect with Me
 
-  <a href="https://www.instagram.com/mashrafi.devs" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/instagram/white?size=40"  
-         width="40" height="40"  
-         style="border-radius:50%; background:#E4405F; padding:8px;"  
-         alt="Instagram" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/mashrafidevs" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg"  
-     width="40" height="40"  
-     style="border-radius:50%; background:#0A66C2; padding:8px;"  
-     alt="LinkedIn" />
-  </a>
-
-
-
-  <a href="https://wa.me/8801822565654" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/whatsapp/white?size=40"  
-         width="40" height="40"  
-         style="border-radius:50%; background:#25D366; padding:8px;"  
-         alt="WhatsApp" />
-  </a>
-
-  <a href="https://www.youtube.com/@mahin2ix" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/white?size=40"  
-         width="40" height="40"  
-         style="border-radius:50%; background:#FF0000; padding:8px;"  
-         alt="YouTube" />
-  </a>
-</p>
+- [Facebook](https://www.facebook.com/mrdodo0)
+- [Instagram](https://www.instagram.com/mashrafi.devs)
+- [LinkedIn](https://www.linkedin.com/in/mashrafidevs)
+- [WhatsApp](https://wa.me/8801822565654)
+- [YouTube](https://www.youtube.com/@mahin2ix)
