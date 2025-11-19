@@ -1,30 +1,41 @@
 ## Top Skills
 
 <p align="left">
+  <img src="https://cdn.simpleicons.org/react/white?size=48"  
+       width="48" height="48"  
+       style="border-radius:50%; background:#61DAFB; padding:8px; margin-right:12px;"  
+       alt="React" />
 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg?color=white" 
-       style="width:45px; height:45px; border-radius:50%; background:#61DAFB; padding:10px; margin-right:12px;" />
+  <img src="https://cdn.simpleicons.org/javascript/white?size=48"  
+       width="48" height="48"  
+       style="border-radius:50%; background:#F7DF1E; padding:8px; margin-right:12px;"  
+       alt="JavaScript" />
 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg?color=white" 
-       style="width:45px; height:45px; border-radius:50%; background:#F7DF1E; padding:10px; margin-right:12px;" />
+  <img src="https://cdn.simpleicons.org/firebase/white?size=48"  
+       width="48" height="48"  
+       style="border-radius:50%; background:#FFCA28; padding:8px; margin-right:12px;"  
+       alt="Firebase" />
 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/firebase.svg?color=white" 
-       style="width:45px; height:45px; border-radius:50%; background:#FFCA28; padding:10px; margin-right:12px;" />
+  <img src="https://cdn.simpleicons.org/css3/white?size=48"  
+       width="48" height="48"  
+       style="border-radius:50%; background:#1572B6; padding:8px; margin-right:12px;"  
+       alt="CSS3" />
 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/css3.svg?color=white" 
-       style="width:45px; height:45px; border-radius:50%; background:#1572B6; padding:10px; margin-right:12px;" />
+  <img src="https://cdn.simpleicons.org/html5/white?size=48"  
+       width="48" height="48"  
+       style="border-radius:50%; background:#E34F26; padding:8px; margin-right:12px;"  
+       alt="HTML5" />
 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/html5.svg?color=white" 
-       style="width:45px; height:45px; border-radius:50%; background:#E34F26; padding:10px; margin-right:12px;" />
+  <img src="https://cdn.simpleicons.org/git/white?size=48"  
+       width="48" height="48"  
+       style="border-radius:50%; background:#F05032; padding:8px; margin-right:12px;"  
+       alt="Git" />
 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg?color=white" 
-       style="width:45px; height:45px; border-radius:50%; background:#F05032; padding:10px; margin-right:12px;" />
-  
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg?color=white" 
-       style="width:45px; height:45px; border-radius:50%; background:#181717; padding:10px;" />
-
+  <img src="https://cdn.simpleicons.org/github/white?size=48"  
+       width="48" height="48"  
+       style="border-radius:50%; background:#181717; padding:8px;"  
+       alt="GitHub" />
 </p>
-
 
 
 ## About Me  
@@ -44,30 +55,38 @@ I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to b
 
 ## Connect with Me  
 <p align="left">
-
   <a href="https://www.facebook.com/mrdodo0" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/facebook.svg?color=white"
-         style="width:40px; height:40px; border-radius:50%; background:#1877F2; padding:8px;" />
+    <img src="https://cdn.simpleicons.org/facebook/white?size=40"  
+         width="40" height="40"  
+         style="border-radius:50%; background:#1877F2; padding:8px;"  
+         alt="Facebook" />
   </a>
 
   <a href="https://www.instagram.com/mashrafi.devs" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg?color=white"
-         style="width:40px; height:40px; border-radius:50%; background:#E4405F; padding:8px;" />
+    <img src="https://cdn.simpleicons.org/instagram/white?size=40"  
+         width="40" height="40"  
+         style="border-radius:50%; background:#E4405F; padding:8px;"  
+         alt="Instagram" />
   </a>
 
   <a href="https://www.linkedin.com/in/mashrafidevs" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg?color=white"
-         style="width:40px; height:40px; border-radius:50%; background:#0A66C2; padding:8px;" />
+    <img src="https://cdn.simpleicons.org/linkedin/white?size=40"  
+         width="40" height="40"  
+         style="border-radius:50%; background:#0A66C2; padding:8px;"  
+         alt="LinkedIn" />
   </a>
 
   <a href="https://wa.me/8801822565654" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/whatsapp.svg?color=white"
-         style="width:40px; height:40px; border-radius:50%; background:#25D366; padding:8px;" />
+    <img src="https://cdn.simpleicons.org/whatsapp/white?size=40"  
+         width="40" height="40"  
+         style="border-radius:50%; background:#25D366; padding:8px;"  
+         alt="WhatsApp" />
   </a>
 
   <a href="https://www.youtube.com/@mahin2ix" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtube.svg?color=white"
-         style="width:40px; height:40px; border-radius:50%; background:#FF0000; padding:8px;" />
+    <img src="https://cdn.simpleicons.org/youtube/white?size=40"  
+         width="40" height="40"  
+         style="border-radius:50%; background:#FF0000; padding:8px;"  
+         alt="YouTube" />
   </a>
-
 </p>
