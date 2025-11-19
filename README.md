@@ -76,13 +76,13 @@ I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to b
          alt="Instagram" />
   </a>
 
-  <a href="https://www.linkedin.com/in/mashrafidevs" target="_blank" style="margin-right: 12px;">
-  <img 
-    src="https://cdn.simpleicons.org/linkedin/ffffff"
-    width="40" height="40"
-    style="border-radius:50%; background:#0A66C2; padding:8px;" 
-  />
-</a>
+  <a href="https://www.linkedin.com/in/mashrafidevs" target="_blank" style="margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff"
+       width="40" height="40"
+       style="border-radius:50%; background:#0A66C2; padding:8px;"
+       alt="LinkedIn" />
+  </a>
+
 
 
   <a href="https://wa.me/8801822565654" target="_blank" style="margin-right:12px;">
