@@ -1,7 +1,5 @@
 ## Top Skills
 
-## Top Skills
-
 <p align="left">
   <span style="display:inline-block; margin-right:12px;">
     <img src="https://cdn.simpleicons.org/react/white"
@@ -22,7 +20,7 @@
   </span>
 
   <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/css3/white"
+    <img src="https://cdn.simpleicons.org/css/white"
          width="48" height="48"
          style="border-radius:50%; background:#1572B6; padding:8px;" />
   </span>
@@ -79,7 +77,7 @@ I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to b
   </a>
 
   <a href="https://www.linkedin.com/in/mashrafidevs" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/linkedin/white?size=40"  
+    <img src="https://cdn.simpleicons.org/linkedIn/white?size=40"  
          width="40" height="40"  
          style="border-radius:50%; background:#0A66C2; padding:8px;"  
          alt="LinkedIn" />
