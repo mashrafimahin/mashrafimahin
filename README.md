@@ -1,27 +1,30 @@
 ## Top Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/react.svg" 
+
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg?color=white" 
        style="width:45px; height:45px; border-radius:50%; background:#61DAFB; padding:10px; margin-right:12px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg" 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg?color=white" 
        style="width:45px; height:45px; border-radius:50%; background:#F7DF1E; padding:10px; margin-right:12px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/firebase.svg" 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/firebase.svg?color=white" 
        style="width:45px; height:45px; border-radius:50%; background:#FFCA28; padding:10px; margin-right:12px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/css3.svg" 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/css3.svg?color=white" 
        style="width:45px; height:45px; border-radius:50%; background:#1572B6; padding:10px; margin-right:12px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg" 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/html5.svg?color=white" 
        style="width:45px; height:45px; border-radius:50%; background:#E34F26; padding:10px; margin-right:12px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/git.svg" 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg?color=white" 
        style="width:45px; height:45px; border-radius:50%; background:#F05032; padding:10px; margin-right:12px;" />
   
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg?color=white" 
        style="width:45px; height:45px; border-radius:50%; background:#181717; padding:10px;" />
+
 </p>
+
 
 
 ## About Me  
@@ -43,27 +46,27 @@ I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to b
 <p align="left">
 
   <a href="https://www.facebook.com/mrdodo0" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg"
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/facebook.svg?color=white"
          style="width:40px; height:40px; border-radius:50%; background:#1877F2; padding:8px;" />
   </a>
 
   <a href="https://www.instagram.com/mashrafi.devs" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg?color=white"
          style="width:40px; height:40px; border-radius:50%; background:#E4405F; padding:8px;" />
   </a>
 
   <a href="https://www.linkedin.com/in/mashrafidevs" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg?color=white"
          style="width:40px; height:40px; border-radius:50%; background:#0A66C2; padding:8px;" />
   </a>
 
   <a href="https://wa.me/8801822565654" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg"
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/whatsapp.svg?color=white"
          style="width:40px; height:40px; border-radius:50%; background:#25D366; padding:8px;" />
   </a>
 
   <a href="https://www.youtube.com/@mahin2ix" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtube.svg?color=white"
          style="width:40px; height:40px; border-radius:50%; background:#FF0000; padding:8px;" />
   </a>
 
