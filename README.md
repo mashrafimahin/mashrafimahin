@@ -16,7 +16,11 @@
 I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to building modern, user-friendly web experiences. With strong skills in JavaScript, React, CSS, and HTML, I focus on creating clean, efficient, and responsive interfaces that bring ideas to life. Beyond coding, I enjoy exploring design principles, solving problems through creative solutions, and continuously expanding my knowledge in front-end technologies. Currently, I’m honing my skills through real-world projects and a structured roadmap to become a professional developer capable of contributing to innovative, large-scale platforms. I believe in consistency, growth, and sharing knowledge to inspire others while shaping a meaningful career in tech.
 
 ## Top Projects
-QuizApp - [Live Link](https://github.com/mashrafimahin/QuizApp)
+QuizApp - [Live Preview](https://quizappzone.netlify.app) [Repository](https://github.com/mashrafimahin/QuizApp)
+FoodApp - [Live Preview](https://foodappp7.netlify.app) [Repository](https://github.com/mashrafimahin/FoodDeliveryApp)
+RecipeApp - [Live Preview](https://recipeappmahin.netlify.app) [Repository](https://github.com/mashrafimahin/ReactRecipeApp)
+FitnessClubGYM - [Live Preview](https://fitnessclubmahin.netlify.app) [Repository](https://github.com/mashrafimahin/FitnessClubGym)
+MusicApp - [Live Link](https://glittering-bublanina-00a978.netlify.app/) [Repository](https://github.com/mashrafimahin/ReactMusicApp)
 
 ## Connect with Me  
 <p align="left">
