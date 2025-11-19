@@ -21,8 +21,7 @@ I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to b
   <li>FoodApp <a href="https://foodappp7.netlify.app" target="_blank">Live</a> — <a href="https://github.com/mashrafimahin/FoodDeliveryApp" target="_blank">Repository</a></li>
   <li>RecipeApp <a href="https://recipeappmahin.netlify.app" target="_blank">Live</a> — <a href="https://github.com/mashrafimahin/ReactRecipeApp" target="_blank">Repository</a></li>
   <li>FitnessClubGYM <a href="https://fitnessclubmahin.netlify.app" target="_blank">Live</a> — <a href="https://github.com/mashrafimahin/FitnessClubGym" target="_blank">Repository</a></li>
-
-  <li><a href="https://glittering-bublanina-00a978.netlify.app/" target="_blank">MusicApp (Live)</a> — <a href="https://github.com/mashrafimahin/ReactMusicApp" target="_blank">Repository</a></li>
+  <li>MusicApp <a href="https://glittering-bublanina-00a978.netlify.app/" target="_blank">Live</a> — <a href="https://github.com/mashrafimahin/ReactMusicApp" target="_blank">Repository</a></li>
 </ul>
 
 
