@@ -43,7 +43,7 @@
          style="border-radius:50%; background:#181717; padding:8px;" />
   </span>
 </p>
-<p>React • JavaScript • Styled-Components • FireBase • CSS • HTML5 • Git • Github</p>
+<p>React • JavaScript • Styled-Components • npm • FireBase • CSS • HTML5 • Git • Github</p>
 
 
 ## About Me  
