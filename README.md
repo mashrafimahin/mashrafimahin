@@ -14,15 +14,15 @@
   </span>
 
   <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/javascript/white"
-         width="48" height="48"
-         style="border-radius:50%; background:#F7DF1E; padding:8px;" />
-  </span>
-
-  <span style="display:inline-block; margin-right:12px;">
     <img src="https://cdn.simpleicons.org/firebase/white"
          width="48" height="48"
          style="border-radius:50%; background:#FFCA28; padding:8px;" />
+  </span>
+
+  <span style="display:inline-block; margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/javascript/white"
+         width="48" height="48"
+         style="border-radius:50%; background:#F7DF1E; padding:8px;" />
   </span>
 
   <span style="display:inline-block; margin-right:12px;">
@@ -56,7 +56,7 @@
 I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to building modern, user-friendly web experiences. With strong skills in JavaScript, React, CSS, and HTML, I focus on creating clean, efficient, and responsive interfaces that bring ideas to life. Beyond coding, I enjoy exploring design principles, solving problems through creative solutions, and continuously expanding my knowledge in technologies. Currently, I’m honing my skills through real-world projects and a structured roadmap to become a professional developer capable of contributing to innovative, large-scale platforms. I believe in consistency, growth, and sharing knowledge to inspire others while shaping a meaningful career in tech.
 
 ## Problem Solved
-<ul style="display:flex">
+<ul>
   <li>LeetCode — <a href="https://github.com/mashrafimahin/ProgrammingInJavaScript">Repository</a></li>
   <li>Object Oriented Programming — <a href="https://github.com/mashrafimahin/ObjectOrientedProgramming">Repository</a></li>
   <li>Front-end Solving — <a href="https://github.com/mashrafimahin/frontEndProblems">Repository</a></li>
