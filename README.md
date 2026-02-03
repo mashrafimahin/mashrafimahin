@@ -8,15 +8,15 @@
   </span>
 
   <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/javascript/white"
-         width="48" height="48"
-         style="border-radius:50%; background:#F7DF1E; padding:8px;" />
-  </span>
-
-  <span style="display:inline-block; margin-right:12px;">
     <img src="https://cdn.simpleicons.org/gsap/white"
          width="48" height="48"
          style="border-radius:50%; background:#61DAFB; padding:8px;" />
+  </span>
+
+  <span style="display:inline-block; margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/javascript/white"
+         width="48" height="48"
+         style="border-radius:50%; background:#F7DF1E; padding:8px;" />
   </span>
 
   <span style="display:inline-block; margin-right:12px;">
