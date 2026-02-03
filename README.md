@@ -1,9 +1,9 @@
 ## Top Skills
 
-<p align="left" style="display:flex; gap:500px">
-  <span style="display:inline-block; margin-right:12px;">
+<p align="left">
+  <span style="display:inline-block; margin-right:25px;">
     <img src="https://cdn.simpleicons.org/react/white"
-         width="48" height="48"
+         width="50" height="50"
          style="border-radius:50%; background:#61DAFB; padding:8px;" />
   </span>
 
