@@ -1,6 +1,6 @@
 ## Top Skills
 
-<p align="left">
+<p align="left" style="display:flex; gap:50px">
   <span style="display:inline-block; margin-right:12px;">
     <img src="https://cdn.simpleicons.org/react/white"
          width="48" height="48"
@@ -43,7 +43,6 @@
          style="border-radius:50%; background:#181717; padding:8px;" />
   </span>
 </p>
-<p>React • JavaScript • Styled-Components • npm • FireBase • CSS • HTML5 • Git • Github</p>
 
 
 ## About Me  
