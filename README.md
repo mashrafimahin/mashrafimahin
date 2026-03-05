@@ -26,6 +26,12 @@
   </span>
 
   <span style="display:inline-block; margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/typescript/white"
+         width="48" height="48"
+         style="border-radius:50%; background:#F7DF1E; padding:8px;" />
+  </span>
+
+  <span style="display:inline-block; margin-right:12px;">
     <img src="https://cdn.simpleicons.org/css/white"
          width="48" height="48"
          style="border-radius:50%; background:#1572B6; padding:8px;" />
