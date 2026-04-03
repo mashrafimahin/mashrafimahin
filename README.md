@@ -1,6 +1,25 @@
 ## Top Skills
 
 <p align="left">
+<span style="display:inline-block; margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/javascript/white"
+         width="48" height="48"
+         style="border-radius:50%; background:#F7DF1E; padding:8px;" />
+  </span>
+
+  <span style="display:inline-block; margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/typescript/white"
+         width="48" height="48"
+         style="border-radius:50%; background:#F7DF1E; padding:8px;" />
+  </span>
+
+  <span style="display:inline-block; margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/css/white"
+         width="48" height="48"
+         style="border-radius:50%; background:#1572B6; padding:8px;" />
+  </span>
+
+  
   <span style="display:inline-block; margin-right:12px;">
     <img src="https://cdn.simpleicons.org/react/white"
          width="48" height="48"
@@ -20,24 +39,6 @@
   </span>
 
   <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/javascript/white"
-         width="48" height="48"
-         style="border-radius:50%; background:#F7DF1E; padding:8px;" />
-  </span>
-
-  <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/typescript/white"
-         width="48" height="48"
-         style="border-radius:50%; background:#F7DF1E; padding:8px;" />
-  </span>
-
-  <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/css/white"
-         width="48" height="48"
-         style="border-radius:50%; background:#1572B6; padding:8px;" />
-  </span>
-
-  <span style="display:inline-block; margin-right:12px;">
     <img src="https://cdn.simpleicons.org/html5/white"
          width="48" height="48"
          style="border-radius:50%; background:#E34F26; padding:8px;" />
@@ -47,12 +48,6 @@
     <img src="https://cdn.simpleicons.org/git/white"
          width="48" height="48"
          style="border-radius:50%; background:#F05032; padding:8px;" />
-  </span>
-
-  <span style="display:inline-block;">
-    <img src="https://cdn.simpleicons.org/github/white"
-         width="48" height="48"
-         style="border-radius:50%; background:#181717; padding:8px;" />
   </span>
 </p>
 
