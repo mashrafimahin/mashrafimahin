@@ -74,8 +74,8 @@ I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to b
 
 ## Connect with Me
 
-- [Facebook](https://www.facebook.com/mrdodo0)
-- [Instagram](https://www.instagram.com/mashrafi.devs)
-- [LinkedIn](https://www.linkedin.com/in/mashrafidevs)
-- [WhatsApp](https://wa.me/8801822565654)
-- [YouTube](https://www.youtube.com/@mahin2ix)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mrdodo0)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mashrafi.devs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashrafidevs)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801822565654)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mahin2ix)
