@@ -14,12 +14,11 @@
   </span>
 
   <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/css/white"
+    <img src="https://cdn.simpleicons.org/nodedotjs/white"
          width="48" height="48"
          style="border-radius:50%; background:#1572B6; padding:8px;" />
   </span>
 
-  
   <span style="display:inline-block; margin-right:12px;">
     <img src="https://cdn.simpleicons.org/react/white"
          width="48" height="48"
@@ -27,15 +26,15 @@
   </span>
 
   <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/gsap/white"
+    <img src="https://cdn.simpleicons.org/tailwindcss/white"
          width="48" height="48"
-         style="border-radius:50%; background:#61DAFB; padding:8px;" />
+         style="border-radius:50%; background:#1572B6; padding:8px;" />
   </span>
 
   <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/firebase/white"
+    <img src="https://cdn.simpleicons.org/gsap/white"
          width="48" height="48"
-         style="border-radius:50%; background:#FFCA28; padding:8px;" />
+         style="border-radius:50%; background:#61DAFB; padding:8px;" />
   </span>
 
   <span style="display:inline-block; margin-right:12px;">
@@ -54,13 +53,13 @@
 
 ## About Me  
 
-I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to building modern, user-friendly web experiences. With strong skills in JavaScript, React, CSS, and HTML, I focus on creating clean, efficient, and responsive interfaces that bring ideas to life. Beyond coding, I enjoy exploring design principles, solving problems through creative solutions, and continuously expanding my knowledge in technologies. Currently, I’m honing my skills through real-world projects and a structured roadmap to become a professional developer capable of contributing to innovative, large-scale platforms. I believe in consistency, growth, and sharing knowledge to inspire others while shaping a meaningful career in tech.
+I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to building modern, user-friendly web experiences. With strong skills in JavaScript, TypeScript and modern framework/libraries like React, TailwindCSS, GSAP. I focus on creating clean, efficient, and responsive interfaces that bring ideas to life. Beyond coding, I enjoy exploring design principles, solving problems through creative solutions, and continuously expanding my knowledge in technologies. Currently, I’m honing my skills through real-world projects and a structured roadmap to become a professional developer capable of contributing to innovative, large-scale platforms. I believe in consistency, growth, and sharing knowledge to inspire others while shaping a meaningful career in tech.
 
 ## Problem Solved
 <ul>
   <li>LeetCode — <a href="https://github.com/mashrafimahin/ProgrammingInJavaScript">Repository</a></li>
   <li>Object Oriented Programming — <a href="https://github.com/mashrafimahin/ObjectOrientedProgramming">Repository</a></li>
-  <li>Front-end Solving — <a href="https://github.com/mashrafimahin/frontEndProblems">Repository</a></li>
+  <li>Realtime Problem Solving — <a href="https://github.com/mashrafimahin/frontEndProblems">Repository</a></li>
 </ul>
 
 ## Top Projects
