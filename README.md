@@ -64,6 +64,7 @@ I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to b
 
 ## Top Projects
 <ul>
+    <li>Business Agency <a href="https://slotifix.netlify.app" target="_blank">Live Preview</li>
   <li>Business Agency <a href="https://testproclient.netlify.app" target="_blank">Live</a> — <a href="https://github.com/mashrafimahin/BusinessAgency" target="_blank">Repository</a></li>
   <li>QuizApp <a href="https://quizepro.netlify.app" target="_blank">Live</a> — <a href="https://github.com/mashrafimahin/QuizApp" target="_blank">Repository</a></li>
   <li>FoodApp <a href="https://foodappp7.netlify.app" target="_blank">Live</a> — <a href="https://github.com/mashrafimahin/FoodDeliveryApp" target="_blank">Repository</a></li>
