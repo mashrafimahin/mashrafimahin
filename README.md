@@ -1,82 +1,75 @@
-## Top Skills
-
-<p align="left">
-  <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/javascript/white"
-         width="48" height="48"
-         style="border-radius:50%; background:#F7DF1E; padding:8px;" />
-  </span>
-
-  <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/typescript/white"
-         width="48" height="48"
-         style="border-radius:50%; background:#F7DF1E; padding:8px;" />
-  </span>
-
-  <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/nodedotjs/white"
-         width="48" height="48"
-         style="border-radius:50%; background:#1572B6; padding:8px;" />
-  </span>
-
-  <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/react/white"
-         width="48" height="48"
-         style="border-radius:50%; background:#61DAFB; padding:8px;" />
-  </span>
-
-  <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/tailwindcss/white"
-         width="48" height="48"
-         style="border-radius:50%; background:#1572B6; padding:8px;" />
-  </span>
-
-  <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/gsap/white"
-         width="48" height="48"
-         style="border-radius:50%; background:#61DAFB; padding:8px;" />
-  </span>
-
-  <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/html5/white"
-         width="48" height="48"
-         style="border-radius:50%; background:#E34F26; padding:8px;" />
-  </span>
-
-  <span style="display:inline-block; margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/git/white"
-         width="48" height="48"
-         style="border-radius:50%; background:#F05032; padding:8px;" />
-  </span>
+<!-- HEADER / GREETING -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" />
 </p>
 
+<h1 align="center">Hi there 👋, I'm Mashrafi Mahin</h1>
+<p align="center">
+  Frontend Developer • Problem Solver • Lifelong Learner
+</p>
 
-## About Me  
+---
 
-I’m Mashrafi Mahin, a passionate developer and lifelong learner dedicated to building modern, user-friendly web experiences. With strong skills in JavaScript, TypeScript and modern framework/libraries like React, TailwindCSS, GSAP. I focus on creating clean, efficient, and responsive interfaces that bring ideas to life. Beyond coding, I enjoy exploring design principles, solving problems through creative solutions, and continuously expanding my knowledge in technologies. Currently, I’m honing my skills through real-world projects and a structured roadmap to become a professional developer capable of contributing to innovative, large-scale platforms. I believe in consistency, growth, and sharing knowledge to inspire others while shaping a meaningful career in tech.
+## 👨‍💻 About Me  
 
-## Problem Solved
-<ul>
-  <li>LeetCode — <a href="https://github.com/mashrafimahin/ProgrammingInJavaScript">Repository</a></li>
-  <li>Object Oriented Programming — <a href="https://github.com/mashrafimahin/ObjectOrientedProgramming">Repository</a></li>
-  <li>Realtime Problem Solving — <a href="https://github.com/mashrafimahin/frontEndProblems">Repository</a></li>
-</ul>
+I’m Mashrafi Mahin, a passionate developer focused on building modern, user-friendly web experiences. I work mainly with JavaScript, TypeScript, and modern tools like React, TailwindCSS, and GSAP to create clean, responsive, and engaging interfaces.
 
-## Top Projects
-<ul>
-    <li>Business Agency <a href="https://slotifix.netlify.app" target="_blank">Live Preview</li>
-  <li>Business Agency <a href="https://testproclient.netlify.app" target="_blank">Live</a> — <a href="https://github.com/mashrafimahin/BusinessAgency" target="_blank">Repository</a></li>
-  <li>QuizApp <a href="https://quizepro.netlify.app" target="_blank">Live</a> — <a href="https://github.com/mashrafimahin/QuizApp" target="_blank">Repository</a></li>
-  <li>FoodApp <a href="https://foodappp7.netlify.app" target="_blank">Live</a> — <a href="https://github.com/mashrafimahin/FoodDeliveryApp" target="_blank">Repository</a></li>
-  <li>RecipeApp <a href="https://recipeappmahin.netlify.app" target="_blank">Live</a> — <a href="https://github.com/mashrafimahin/ReactRecipeApp" target="_blank">Repository</a></li>
-  <li>FitnessClubGYM <a href="https://fitnessclubmahin.netlify.app" target="_blank">Live</a> — <a href="https://github.com/mashrafimahin/FitnessClubGym" target="_blank">Repository</a></li>
-</ul>
+I enjoy solving problems, exploring design principles, and continuously improving my skills through real-world projects. My goal is to grow into a professional developer who can contribute to impactful, large-scale platforms.
 
 
-## Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mrdodo0)
-[![Instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mashrafi.devs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashrafidevs)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0A66C2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801822565654)
-[![YouTube](https://img.shields.io/badge/YouTube-0A66C2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mahin2ix)
+## 🧠 Problem Solving  
+
+- **LeetCode Practice** [Visit](https://github.com/mashrafimahin/ProgrammingInJavaScript)  
+
+- **Object-Oriented Programming** [Visit](https://github.com/mashrafimahin/ObjectOrientedProgramming)  
+
+- **Frontend Problem Solving** [Visit](https://github.com/mashrafimahin/frontEndProblems)  
+
+
+
+## 🚀 Top Projects  
+
+- **Business Agency (Landing Page)** [Live](https://slotifix.netlify.app)  
+
+- **Business Agency (Full Project)** [Live](https://testproclient.netlify.app0), [Repo](https://github.com/mashrafimahin/BusinessAgency)  
+
+- **Quiz App** [Live](https://quizepro.netlify.app), [Repo](https://github.com/mashrafimahin/QuizApp)  
+
+- **Food Delivery App** [Live](https://foodappp7.netlify.app), [Repo](https://github.com/mashrafimahin/FoodDeliveryApp)  
+
+- **Recipe App** [Live](https://recipeappmahin.netlify.app), [Repo](https://github.com/mashrafimahin/ReactRecipeApp)  
+
+- **Fitness Club Gym Website** [Live](https://fitnessclubmahin.netlify.app), [Repo](https://github.com/mashrafimahin/FitnessClubGym)  
+
+
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.facebook.com/mrdodo0">
+    <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/mashrafi.devs">
+    <img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mashrafidevs">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://wa.me/8801822565654">
+    <img src="https://img.shields.io/badge/WhatsApp-0A66C2?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
+  <a href="https://www.youtube.com/@mahin2ix">
+    <img src="https://img.shields.io/badge/YouTube-0A66C2?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting! 🚀
+</p>
