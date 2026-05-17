@@ -32,7 +32,7 @@ I enjoy solving problems, exploring design principles, and continuously improvin
 
 - **Slotifix Business (SaaS)** [Live](https://slotifix.netlify.app)  
 
-- **Business Agency (Full Project)** [Live](https://testproclient.netlify.app0), [Repo](https://github.com/mashrafimahin/BusinessAgency)  
+- **Business Agency (Full Project)** [Live](https://testproclient.netlify.app), [Repo](https://github.com/mashrafimahin/BusinessAgency)  
 
 - **Quiz App** [Live](https://quizepro.netlify.app), [Repo](https://github.com/mashrafimahin/QuizApp)  
 
