@@ -30,7 +30,7 @@ I enjoy solving problems, exploring design principles, and continuously improvin
 
 ## 🚀 Top Projects  
 
-- **Business Agency (Landing Page)** [Live](https://slotifix.netlify.app)  
+- **Slotifix Business (SaaS)** [Live](https://slotifix.netlify.app)  
 
 - **Business Agency (Full Project)** [Live](https://testproclient.netlify.app0), [Repo](https://github.com/mashrafimahin/BusinessAgency)  
 
