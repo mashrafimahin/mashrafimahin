@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi there 👋, I'm Mashrafi Mahin</h1>
 <p align="center">
-  Frontend Developer • Problem Solver • Lifelong Learner
+  Full-Stack Developer • Problem Solver • Lifelong Learner
 </p>
 
 ---
