@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me  
 
-I’m Mashrafi Mahin, a passionate developer focused on building modern, user-friendly web experiences. I work mainly with JavaScript, TypeScript, and modern tools like React, TailwindCSS, and GSAP to create clean, responsive, and engaging interfaces.
+I’m Mashrafi Mahin, a passionate developer focused on building modern, user-friendly web experiences, and a MERN Stack Developer with hands-on experience building scalable, high-performance applications. Strong focus on frontend engineering with expertise in JavaScript (ES6+), TypeScript, and modern UI development, combined with solid backend knowledge including API development, authentication, database, and AI integration.
 
 I enjoy solving problems, exploring design principles, and continuously improving my skills through real-world projects. My goal is to grow into a professional developer who can contribute to impactful, large-scale platforms.
 
@@ -21,25 +21,17 @@ I enjoy solving problems, exploring design principles, and continuously improvin
 ## 🧠 Problem Solving  
 
 - **LeetCode Practice** [Visit](https://github.com/mashrafimahin/ProgrammingInJavaScript)  
-
 - **Object-Oriented Programming** [Visit](https://github.com/mashrafimahin/ObjectOrientedProgramming)  
-
 - **Frontend Problem Solving** [Visit](https://github.com/mashrafimahin/frontEndProblems)  
 
 
 
 ## 🚀 Top Projects  
 
-- **Slotifix Business (SaaS)** [Live](https://slotifix.netlify.app)  
-
 - **URL Shortener (Full-Stack)** [Live](https://testproclient.netlify.app), [Repo](https://github.com/mashrafimahin/fullstack-url-shortener) 
-
+- **Slotifix Business (SaaS)** [Live](https://slotifix.netlify.app)  
 - **Quiz App** [Live](https://quizepro.netlify.app), [Repo](https://github.com/mashrafimahin/QuizApp)  
-
-- **Food Delivery App** [Live](https://foodappp7.netlify.app), [Repo](https://github.com/mashrafimahin/FoodDeliveryApp)  
-
-- **Recipe App** [Live](https://recipeappmahin.netlify.app), [Repo](https://github.com/mashrafimahin/ReactRecipeApp)  
-
+- **Food Delivery App** [Live](https://foodappp7.netlify.app), [Repo](https://github.com/mashrafimahin/FoodDeliveryApp)
 - **Fitness Club Gym Website** [Live](https://fitnessclubmahin.netlify.app), [Repo](https://github.com/mashrafimahin/FitnessClubGym)  
 
 
@@ -47,7 +39,7 @@ I enjoy solving problems, exploring design principles, and continuously improvin
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.facebook.com/mrdodo0">
+  <a href="https://www.facebook.com/mash.en6">
     <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   
