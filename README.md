@@ -28,8 +28,8 @@ I enjoy solving problems, exploring design principles, and continuously improvin
 
 ## 🚀 Top Projects  
 
-- **Bakert E-commerce (Full-Stack)** [Live Preview]([https://bakert-audit.netlify.app](https://bakert-audit.netlify.app/)),
-- **URL Shortener (Full-Stack)** [Live Preview]([https://trimliy.netlify.app](https://trimliy.netlify.app)),
+- **Bakert E-commerce (Full-Stack)** [Live Preview](https://bakert-audit.netlify.app/),
+- **URL Shortener (Full-Stack)** [Live Preview](https://trimliy.netlify.app),
 - **Slotifix Business (SaaS)** [Live](https://slotifix.netlify.app)  
 - **Quiz App** [Live](https://quizepro.netlify.app), [Repo](https://github.com/mashrafimahin/QuizApp)  
 - **Food Delivery App** [Live](https://foodappp7.netlify.app), [Repo](https://github.com/mashrafimahin/FoodDeliveryApp) 
